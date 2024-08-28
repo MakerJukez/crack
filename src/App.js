@@ -14,7 +14,7 @@ export default function App() {
               </div>
               <div className="flex flex-col lg:flex-row lg:items-center space-y-2 lg:space-y-0 lg:space-x-4 text-sm">
                 <span className="text-green-500">Market cap: $20,995.62</span>
-                <span className="break-all lg:break-normal">CA: XXXXXXXXXXXXXXXXXXXXXXXXXXX</span>
+                <span className="break-all lg:break-normal">CA: XXXXXXXXXXXXXXXXX</span>
               </div>
             </div>
           </div>
@@ -29,7 +29,7 @@ export default function App() {
               backgroundPosition: "center"
             }}
           >
-            <div className='absolute p-3 top-4 right-4 flex rounded-xl justify-center items-center bg-gray-500 bg-opacity-30'>
+            <div className='absolute p-3 top-4 right-4 flex rounded-xl justify-center items-center bg-gray-500 bg-opacity-40'>
               <div className='grid bg-transparent'>
                 <div className='text-center text-[16px] text-green-400 font-semibold'>LIVE</div>
                 <div className='text-center text-sm'>83 viewers</div>
