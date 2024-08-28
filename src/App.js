@@ -9,8 +9,8 @@ export default function App() {
           <div className="bg-gray-900 p-2">
             <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between space-y-2 lg:space-y-0">
               <div className="flex items-center space-x-2 lg:space-x-4">
-                <div className="text-sm">Crackhead Dog</div>
-                <div className="text-sm lg:flex lg:justify-center lg:items-center">Ticker: CHD</div>
+                <div className="text-sm">crack dog</div>
+                <div className="text-sm lg:flex lg:justify-center lg:items-center">Ticker: crack</div>
               </div>
               <div className="flex flex-col lg:flex-row lg:items-center space-y-2 lg:space-y-0 lg:space-x-4 text-sm">
                 <span className="text-green-500">Market cap: $20,995.62</span>
