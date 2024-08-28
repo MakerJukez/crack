@@ -14,7 +14,7 @@ export default function App() {
               </div>
               <div className="flex flex-col lg:flex-row lg:items-center space-y-2 lg:space-y-0 lg:space-x-4 text-sm">
                 <span className="text-green-500">Market cap: $20,995.62</span>
-                <span className="break-all lg:break-normal">CA: XXXXXXXXXXXXXXXXX</span>
+                <span className="break-all lg:break-normal">CA: XXXXXXXXXXXXXXXXXX</span>
               </div>
             </div>
           </div>
@@ -64,6 +64,14 @@ export default function App() {
             <button className="px-4 py-2 bg-green-500 rounded">place trade</button>
           </div>
           <div className="flex flex-col items-center p-4 space-y-4 bg-gray-800 rounded">
+            <div className='flex justify-around w-full'>
+              <a  href="https://t.me/crackheaddog" className=''>
+                [ Telegram ]
+              </a>
+              <a href="/" className=''>
+                [ Website ]
+              </a>
+            </div>
             <img src="dog.png" className="size-24 md:size-32 bg-gray-700 rounded-full" />
             <div className="text-center">
               <div>(ticker: CHD)</div>
