@@ -66,7 +66,7 @@ export default function App() {
           <div className="flex flex-col items-center p-4 space-y-4 bg-gray-800 rounded">
             <img src="dog.png" className="size-24 md:size-32 bg-gray-700 rounded-full" />
             <div className="text-center">
-              <div>(ticker: CHD)</div>
+              <div>(ticker: crack)</div>
               <div>a full experience of what it's like living as a crack dog. by the way, do you have $4 for a sandwich?</div>
             </div>
             <div className="w-full h-2 bg-gray-700 rounded">
