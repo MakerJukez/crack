@@ -14,7 +14,7 @@ export default function App() {
               </div>
               <div className="flex flex-col lg:flex-row lg:items-center space-y-2 lg:space-y-0 lg:space-x-4 text-sm">
                 <span className="text-green-500">Market cap: $20,995.62</span>
-                <span className="break-all lg:break-normal">CA: XXXXXXXXXXXXXXXXXX</span>
+                <span className="break-all lg:break-normal">CA: 3YH5Bu9U9Xd2twnoNDQTBQ9Xgix929isyLuzax3J9hPK</span>
               </div>
             </div>
           </div>
